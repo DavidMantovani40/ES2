@@ -1,0 +1,21 @@
+0:00 - 3:30 - modelo de processo de software, explica que um processo de software pode ter varios modelos de desenvolvimento, e metodologias de trabalhos.
+
+3:31 - 5:56 - descreve as definições basicas da engenharia de software, o que constitui um software como os atributos de um bom software, o que é engenharia de software, as principais atividades da engenharia de software, e a diferença entre engenharia de software e ciencia da computação.
+
+5:57 - 6:19 - continua explicando sobre os itens descristos no intervalo de tempo anterior.
+
+6:20 - 8:46 - mostra as comparações, feitas entre engenharia de software e engenharia de sistemas, os desafios da engenharia de software, quais os custos envolvidos na engenharia de software, fala sobre as melhores técnicas e métodos da engenharia de software, e quais diferenças foram feitas pela internet na engenharia de software.
+
+8:47 - 10:34 - descreve o processo de software, como o conjunto de atividades relacionadas que levam à produção de um produto de software, como ele pode ser desenvolvido, iniciando do zero ou dando continuidade a partir de algo já desenvolvido, uso e reuso de componentes já existentes é uma pratica comum, e descreve as atividades fundamentais como especificação, projeto, implementação, validação, evolução.
+
+10:35 - 15:59 - descreve a parte relacionada aos modelos de processo de software, como apresentção simplificada de um processo, frameworks, e os modelos mais comuns como Cascata , Incremental e Orientado a recurso, fazendo a desmostração grafica de cada modelo citado anteriormente.
+
+15:60 - 17:04 - descreve a parte das atividades do processo, como atividades técnicas, colaboração e gestão, os objetivos como especificar o projeto e testes, as diferentes ferramentas que são usadas como apoio, e as atividades basicas .
+
+17:05 - 18:15 - descreve a parte dos requisitos da engenharia de processos, como viabilidade, analise, especificação e validação e por fim a geração da documentação de requisitos
+
+18:16 - 19:44 - descreve e explica um modelo geral do processo de projeto
+
+19:45 - 20:53 - descreve os estágios de testes.
+
+20:54 - 22:42 - descreve a evolução do sistema 
